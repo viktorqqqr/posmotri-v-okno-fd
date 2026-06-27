@@ -115,7 +115,7 @@ ol {
   appearance: none;
 }
 
-.search-form__textfield:focus, .content__card-link:focus, .button:focus  {
+.search-form__textfield:focus, .content__card-link:focus, .button:focus {
   outline: none;
 }
 
@@ -184,7 +184,7 @@ ol {
   gap: 30px;
 }
 
-.content__list-container{
+.content__list-container {
   height: 298px;
   overflow-y: auto;
   padding-right: 2px;
